@@ -1,4 +1,4 @@
-meu nome é vitor, e este é meu github. atualmente estou performando meu portfólio para entrar no mercado de trabalho, espero que goste do meu perfil, :)
+hi! i'm vitor, and this is my github. Actually i'm building my portfolio to get in the jobs, i hope you like :)
 
 🥋・Karateka
 👓・aprendiz de chapéu branco
