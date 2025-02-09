@@ -9,5 +9,9 @@
 
 ## 📖 Bibliotecas & Frameworks
 
+<div>
+    <img src="assets/languages/sql.png" alt="sql language">
+</div>
+
 ## 🎯 Soft Skills
 💡 Proatividade | 🔥 Determinação | 🏆 Resiliência | 🗣 Comunicação | 📊 Pensamento Analítico  
