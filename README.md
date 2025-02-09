@@ -1,9 +1,5 @@
-🚀 Desenvolvedor Full-Stack | Análise de Dados | Ethical Hacking  
-
 ## 🎯 Sobre Mim
-Sou um desenvolvedor full-stack apaixonado por tecnologia, análise de dados e segurança da informação. Estou sempre buscando aprender, inovar e enfrentar novos desafios. 💡
-
----
+🚀 Desenvolvedor Full-Stack | Análise de Dados | Ethical Hacking  
 
 ## 🎓 Formação Acadêmica
 🎓 **Tecnólogo em Sistemas para Internet** – IFB (Cursando)  
