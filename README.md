@@ -7,7 +7,7 @@
 
 ## 💻 Linguagens
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-around;">
     <img src="assets/languages/typescript.png" alt="typescript language" width="100">
     <img src="assets/languages/javascript.png" alt="javascript language" width="100">
     <img src="assets/languages/sql.png" alt="sql language" width="100">
