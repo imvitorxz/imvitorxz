@@ -8,7 +8,7 @@
 ## 💻 Linguagens
 
 <div>
-    <img src="assets/languages/sql.png" alt="sql language" width="150" height="auto">
+    <img src="assets/languages/sql.png" alt="sql language" width="100" height="auto">
 </div>
 
 ## 📖 Bibliotecas & Frameworks
