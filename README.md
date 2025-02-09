@@ -2,8 +2,7 @@
 🚀 Desenvolvedor Full-Stack | Análise de Dados | Ethical Hacking 
 
 ## 🎓 Formação Acadêmica
-🎓 **Tecnólogo em Sistemas para Internet** – IFB (Cursando)  
-🎓 **Tecnólogo em Banco de Dados e Big Data** – IESB (Cursando)  
+**Tecnólogo em Sistemas para Internet** – IFB (Cursando) | **Tecnólogo em Banco de Dados e Big Data** – IESB (Cursando)  
 
 ## 💻 Linguagens
 
