@@ -3,7 +3,7 @@
 🎯 Desenvolvedor Full Stack | Especialista em .NET, React, Next.js, Node.js, e Análise de Dados  
 🚔 Estagiário de TI na Polícia Federal
 📍 Brasília - DF | Disponível para trabalho remoto ou presencial  
-📧 vittorcolom@gmail.com | 🌐 [linkedin.com/in/vitor-colombelli](https://linkedin.com/in/vitor-colombelli)  
+📧 vitor69776@estudante.ifb.edu.br | 🌐 [linkedin.com/in/vitor-colombelli](https://linkedin.com/in/vitor-colombelli)  
 
 ---
 
