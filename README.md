@@ -94,9 +94,10 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 ---
 
+### 🧪 Testes
+
 <div align="left">
   <img src="https://img.shields.io/badge/Tested_with-xUnit-2ea44f?logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linted_with-StyleCop-0078D4?logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tested_with-Jest-C21325?logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linted_with-ESLint-4B32C3?logo=eslint&logoColor=white"/>
 </div>
