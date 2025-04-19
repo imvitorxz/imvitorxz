@@ -51,11 +51,11 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### ⚙️ DevOps & Infra
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="imgshields/devops-infra/docker.svg" />
+  <img src="imgshields/devops-infra/git.svg" />
+  <img src="imgshields/devops-infra/github actions.svg" />
+  <img src="imgshields/devops-infra/railway.svg" />
+  <img src="imgshields/devops-infra/render.svg" />
 </div>
 
 ---
@@ -63,11 +63,11 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 📊 Dados e Análise
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="imgshields/data-analysis/python.svg" />
+  <img src="imgshields/data-analysis/pandas.svg" />
+  <img src="imgshields/data-analysis/numpy.svg" />
+  <img src="imgshields/data-analysis/scikit.svg" />
+  <img src="imgshields/data-analysis/power-bi.svg" />
 </div>
 
 ---
@@ -93,6 +93,13 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 </div>
 
 ---
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Tested_with-xUnit-2ea44f?logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linted_with-StyleCop-0078D4?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tested_with-Jest-C21325?logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linted_with-ESLint-4B32C3?logo=eslint&logoColor=white"/>
+</div>
 
 ## 📈 Em Formação
 
