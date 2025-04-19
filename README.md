@@ -26,11 +26,11 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 <div align="left">
   <img src="imgshields/back-end/dotnet.svg/" />
   <img src="imgshields/back-end/csharp.svg/" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=ef&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dapper-1389FD?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="imgshields/back-end/aspdotnet.svg/" />
+  <img src="imgshields/back-end/ef.svg/" />
+  <img src="imgshields/back-end/dapper.svg" />
+  <img src="imgshields/back-end/psql.svg/" />
+  <img src="imgshields/back-end/mongodb.svg/" />
 </div>
 
 ---
@@ -38,12 +38,12 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 💻 Front-End
 
 <div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zotero&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="imgshields/front-end/react.svg/" />
+  <img src="imgshields/front-end/next.svg/" />
+  <img src="imgshields/front-end/rn.svg/" />
+  <img src="imgshields/front-end/ts.svg/" />
+  <img src="imgshields/front-end/zustand.svg/" />
+  <img src="imgshields/front-end/sc.svg/" />
 </div>
 
 ---
