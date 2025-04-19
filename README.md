@@ -17,6 +17,8 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 ## 🧰 Minha Stack
 
+Tudo o que eu sei fazer, e abaixo você pode conferir meus projetos!
+
 ---
 
 ### 🖥️ Back-End
