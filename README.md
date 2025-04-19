@@ -15,65 +15,80 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 ---
 
-## 🧠 Minha Stack de Tecnologias
-
-### 💻 Back-End
-- C#, .NET, ASP.NET, .NET Core, .NET MAUI, Blazor
-- Node.js, Express
-- API REST, WebSockets, JWT, Autenticação e Criptografia
-- Microsserviços, MVC, DDD, Clean Architecture, SOLID
-
-### 🖥️ Front-End
-- React, Next.js, React Native
-- TypeScript, JavaScript
-- Zustand, Redux, Styled Components, Tailwind
-- Vite, Webpack, Babel
-
-### 🧪 Testes & Segurança
-- Zod, bcrypt, JWT
-- Segurança de APIs
-- Testes com Jest e outras libs
-
-### 🗃️ Banco de Dados
-- PostgreSQL, MySQL, MongoDB, SQL Server
-- Prisma ORM, Entity Framework, LINQ
-
-### 📊 Ciência de Dados
-- Python, Pandas, NumPy, Scikit-Learn
-- BeautifulSoup, Scrapy
-
-### ☁️ DevOps & Cloud
-- Docker, Docker Compose
-- AWS, Azure
-- GitHub Actions, GitLab CI/CD
-
-### ⚙️ Ferramentas
-- Git, GitHub, GitLab
-- WSL, Máquinas Virtuais (VMs)
+## 🧰 Minha Stack
 
 ---
 
-## 📦 Projetos em Destaque
+### 🖥️ Back-End
 
-### 💪 Clientes
+<div align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=ef&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-1389FD?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
 
-| Projeto                         | Tecnologias Utilizadas | Descrição                                                                                                                                                                                                                   |
-|---------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Papos & Retratos**            | React / Next.js / TypeScript  | Projeto educacional desenvolvido no IFB, simulando um ambiente real de trabalho. Criamos um site para um fotógrafo fictício, incluindo páginas como portfólio, contato, sobre e blog. Utilizamos a metodologia SCRUM para gerenciar as tarefas em sprints. [🔗 Acesse o site](https://papos-e-retratos.vercel.app) |
-| **Pizzaria e Hamburgueria da May** | HTML, CSS              | Desenvolvi um site simples para um pequeno negócio local, com páginas como cardápio, contato, localização e sobre. Este foi meu primeiro projeto prático, proporcionando uma experiência valiosa no desenvolvimento web. [🔗 Acesse o site](https://vitorxzspes.github.io/Pizzaria-e-Hamburgueria-da-May) |
+---
 
+### 💻 Front-End
 
-### 🧬 Pessoais
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zotero&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+</div>
 
-| Projeto | Tecnologias | Descrição |
-|--------|--------------|-----------|
-| **AMÓS** | Vite, API OpenAI | IA para desenvolvimento pessoal |
-| **eConvert** | React, Node.js, Prisma | Conversor universal |
-| **TaskPilot** | .NET MAUI, SQLite | Aplicativo de tarefas com agendamento inteligente |
-| **Resolve Tudo** | React Native, Express | Calculadora com diversos tipos de cálculos |
-| **CMHub** | Next.js, MongoDB | Rede social para compartilhamento mútuo |
+---
 
-> Todos os projetos estão em desenvolvimento. Acompanhe no meu GitHub: [github.com/vitor-dev](https://github.com/vitor-dev)
+### ⚙️ DevOps & Infra
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white" />
+</div>
+
+---
+
+### 📊 Dados e Análise
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</div>
+
+---
+
+### 🔐 Segurança e Autenticação
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/bcrypt-004488?style=for-the-badge&logo=lock&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-2867B2?style=for-the-badge&logo=oauth&logoColor=white" />
+</div>
+
+---
+
+### 📚 Arquitetura, Práticas e Outros
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=clean&logoColor=white" />
+  <img src="https://img.shields.io/badge/DDD-7952B3?style=for-the-badge&logo=domain-driven-design&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID-Principles-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
+</div>
 
 ---
 
