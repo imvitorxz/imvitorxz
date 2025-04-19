@@ -17,15 +17,15 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 ## 🧰 Minha Stack
 
-Tudo o que eu sei fazer, e abaixo você pode conferir meus projetos!
+👉 Tudo o que eu sei fazer, e abaixo você pode conferir meus projetos!
 
 ---
 
 ### 🖥️ Back-End
 
 <div align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="imgshields/back-end/dotnet.svg/" />
+  <img src="imgshields/back-end/csharp.svg/" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=ef&logoColor=white" />
   <img src="https://img.shields.io/badge/Dapper-1389FD?style=for-the-badge&logo=data&logoColor=white" />
