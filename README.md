@@ -17,7 +17,7 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 ## 🧰 Minha Stack
 
-👉 Tudo o que eu sei fazer, e abaixo você pode conferir meus projetos!
+👉 Tudo o que uso, e abaixo você pode conferir meus projetos!
 
 ---
 
@@ -75,9 +75,9 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 🔐 Segurança e Autenticação
 
 <div align="left">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/bcrypt-004488?style=for-the-badge&logo=lock&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-2867B2?style=for-the-badge&logo=oauth&logoColor=white" />
+  <img src="imgshields/security/jwt.svg" />
+  <img src="imgshields/security/bcrypt.svg" />
+  <img src="imgshields/security/oauth2.svg" />
 </div>
 
 ---
@@ -85,11 +85,12 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 📚 Arquitetura, Práticas e Outros
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=clean&logoColor=white" />
-  <img src="https://img.shields.io/badge/DDD-7952B3?style=for-the-badge&logo=domain-driven-design&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOLID-Principles-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="imgshields/arch/clean.svg" />
+  <img src="imgshields/arch/ddd.svg" />
+  <img src="imgshields/arch/solid.svg" />
+  <img src="imgshields/arch/principles.svg" />
+  <img src="imgshields/arch/websockets.svg" />
+  <img src="imgshields/arch/rest.svg" />
 </div>
 
 ---
@@ -97,9 +98,9 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 🧪 Testes
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Tested_with-xUnit-2ea44f?logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tested_with-Jest-C21325?logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linted_with-ESLint-4B32C3?logo=eslint&logoColor=white"/>
+  <img src="imgshields/tests/xunit.svg"/>
+  <img src="imgshields/tests/jest.svg"/>
+  <img src="imgshields/tests/eslint.svg"/>
 </div>
 
 ## 📈 Em Formação
