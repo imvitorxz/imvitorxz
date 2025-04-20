@@ -107,8 +107,55 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 - 💻 Tecnologia em Sistemas para Internet – IFB
 - 🧑‍🔬 Bacharelado em Engenharia de Software - UNIASSELVI  
-- 📚 Cursando certificações extras com foco em Engenharia de Software e Análise de Dados  
 - 🎓 Formação técnica em Administração e Contabilidade  
+
+---
+
+## 🏅 Certificações
+
+<details>
+<summary><strong>💻 Desenvolvimento e Programação</strong></summary>
+
+[![C# - Rocketseat](https://img.shields.io/badge/C%23-Rocketseat-6e40c9?style=for-the-badge&logo=csharp)](#)
+[![React Native - Rocketseat](https://img.shields.io/badge/React_Native-Rocketseat-61dafb?style=for-the-badge&logo=react)](#)
+[![Git & GitHub - Rocketseat](https://img.shields.io/badge/Git%20e%20GitHub-Rocketseat-f05032?style=for-the-badge&logo=github)](#)
+
+</details>
+
+<details>
+<summary><strong>🛠️ DevOps, Containers e Cloud</strong></summary>
+
+[![DevOps - Rocketseat](https://img.shields.io/badge/DevOps-Rocketseat-orange?style=for-the-badge&logo=azuredevops)](#)
+[![Docker - Rocketseat](https://img.shields.io/badge/Docker-Rocketseat-2496ED?style=for-the-badge&logo=docker)](#)
+[![Azure Fundamentals - DataCamp](https://img.shields.io/badge/AZ900-Azure_Fundamentals-blue?style=for-the-badge&logo=microsoftazure)](#)
+
+</details>
+
+<details>
+<summary><strong>📊 Dados e Análise</strong></summary>
+
+[![Data Analyst - DataCamp](https://img.shields.io/badge/Analista_de_Dados-DataCamp-brightgreen?style=for-the-badge&logo=databricks)](#)
+[![SQL Server Developer - DataCamp](https://img.shields.io/badge/SQL_Server-Developer-4B8BBE?style=for-the-badge&logo=microsoftsqlserver)](#)
+[![Data Engineer - DataCamp](https://img.shields.io/badge/Data_Engineer-Python-003B57?style=for-the-badge&logo=python)](#)
+[![Administrador de Banco de Dados - IFRS](https://img.shields.io/badge/Administrador_BD-IFRS-darkgreen?style=for-the-badge&logo=microsoftsqlserver)](#)
+
+</details>
+
+<details>
+<summary><strong>🧠 Inteligência Artificial e Cibersegurança</strong></summary>
+
+[![Fundamentos de IA - Rocketseat](https://img.shields.io/badge/IA_Fundamentos-Rocketseat-purple?style=for-the-badge&logo=openai)](#)
+[![Ethical Hacking - HackerX](https://img.shields.io/badge/Ethical_Hacking-HackerX-red?style=for-the-badge&logo=hackthebox)](#)
+
+</details>
+
+<details>
+<summary><strong>🌎 Idiomas</strong></summary>
+
+[![Inglês Avançado - UNINTER](https://img.shields.io/badge/Ingl%C3%AAs_Avan%C3%A7ado-UNINTER-0072C6?style=for-the-badge&logo=translate)](#)
+
+</details>
+
 
 ---
 
