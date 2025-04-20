@@ -17,7 +17,7 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 ## 🧰 Minha Stack
 
-👉 Tudo o que uso, e abaixo você pode conferir meus projetos!
+👉 tudo o que uso, e abaixo você pode conferir meus projetos!
 
 ---
 
@@ -113,42 +113,43 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 ## 🏅 Certificações
 
+💪 algumas certificações que possuo, confira abaixo!
+
 ### 💻 Desenvolvimento e Programação
 
-[![C# - Rocketseat](https://img.shields.io/badge/C%23-Rocketseat-6e40c9?style=for-the-badge&logo=csharp)](#)
-[![React Native - Rocketseat](https://img.shields.io/badge/React_Native-Rocketseat-61dafb?style=for-the-badge&logo=react)](#)
-[![Git & GitHub - Rocketseat](https://img.shields.io/badge/Git%20e%20GitHub-Rocketseat-f05032?style=for-the-badge&logo=github)](#)
+<img src="imgshields/certifications/csharp.svg"/>
+<img src="imgshields/certifications/react_native.svg"/>
+<img src="imgshields/certifications/git.svg"/>
 
 ---
 
 ### 🛠️ DevOps, Containers e Cloud
 
-[![DevOps - Rocketseat](https://img.shields.io/badge/DevOps-Rocketseat-orange?style=for-the-badge&logo=azuredevops)](#)
-[![Docker - Rocketseat](https://img.shields.io/badge/Docker-Rocketseat-2496ED?style=for-the-badge&logo=docker)](#)
-[![Azure Fundamentals - DataCamp](https://img.shields.io/badge/AZ900-Azure_Fundamentals-blue?style=for-the-badge&logo=microsoftazure)](#)
+<img src="imgshields/certifications/devops.svg"/>
+<img src="imgshields/certifications/docker.svg"/>
+<img src="imgshields/certifications/az900.svg"/>
 
 ---
 
 ### 📊 Dados e Engenharia
 
-[![Data Analyst - DataCamp](https://img.shields.io/badge/Analista_de_Dados-DataCamp-brightgreen?style=for-the-badge&logo=databricks)](#)
-[![SQL Server Developer - DataCamp](https://img.shields.io/badge/SQL_Server-Developer-4B8BBE?style=for-the-badge&logo=microsoftsqlserver)](#)
-[![Data Engineer - DataCamp](https://img.shields.io/badge/Data_Engineer-Python-003B57?style=for-the-badge&logo=python)](#)
-[![Administrador de Banco de Dados - IFRS](https://img.shields.io/badge/Administrador_BD-IFRS-006600?style=for-the-badge&logo=microsoftsqlserver)](#)
+<img src="imgshields/certifications/data_analysis.svg"/>
+<img src="imgshields/certifications/sql_server.svg"/>
+<img src="imgshields/certifications/data_engineer.svg"/>
+<img src="imgshields/certifications/dba.svg"/>
 
 ---
 
 ### 🤖 IA e Cibersegurança
 
-[![Fundamentos de IA - Rocketseat](https://img.shields.io/badge/IA_Fundamentos-Rocketseat-purple?style=for-the-badge&logo=openai)](#)
-[![Ethical Hacking - HackerX](https://img.shields.io/badge/Ethical_Hacking-HackerX-red?style=for-the-badge&logo=hackthebox)](#)
+<img src="imgshields/certifications/ethical.svg"/>
+<img src="imgshields/certifications/ia fundamentos.svg"/>
 
 ---
 
 ### 🌐 Idiomas
 
-[![Inglês Avançado - Uninter](https://img.shields.io/badge/Ingl%C3%AAs_Avan%C3%A7ado-Uninter-lightgrey?style=for-the-badge&logo=english)](#)
-
+<img src="imgshields/certifications/ingles.svg"/>
 
 ---
 
