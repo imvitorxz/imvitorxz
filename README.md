@@ -117,39 +117,48 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 ### 💻 Desenvolvimento e Programação
 
-<img src="imgshields/certifications/csharp.svg"/>
-<img src="imgshields/certifications/react_native.svg"/>
-<img src="imgshields/certifications/git.svg"/>
-
+<div align="left">
+  <img src="imgshields/certifications/csharp.svg"/>
+  <img src="imgshields/certifications/react_native.svg"/>
+  <img src="imgshields/certifications/git.svg"/>
+</div>
 ---
 
 ### 🛠️ DevOps, Containers e Cloud
 
-<img src="imgshields/certifications/devops.svg"/>
-<img src="imgshields/certifications/docker.svg"/>
-<img src="imgshields/certifications/az900.svg"/>
+<div align="left">
+  <img src="imgshields/certifications/devops.svg"/>
+  <img src="imgshields/certifications/docker.svg"/>
+  <img src="imgshields/certifications/az900.svg"/>
+</div>
 
 ---
 
 ### 📊 Dados e Engenharia
 
-<img src="imgshields/certifications/data_analysis.svg"/>
-<img src="imgshields/certifications/sql_server.svg"/>
-<img src="imgshields/certifications/data_engineer.svg"/>
-<img src="imgshields/certifications/dba.svg"/>
+<div align="left">
+  <img src="imgshields/certifications/data_analysis.svg"/>
+  <img src="imgshields/certifications/sql_server.svg"/>
+  <img src="imgshields/certifications/data_engineer.svg"/>
+  <img src="imgshields/certifications/dba.svg"/>
+</div>
 
 ---
 
 ### 🤖 IA e Cibersegurança
 
-<img src="imgshields/certifications/ethical.svg"/>
-<img src="imgshields/certifications/ia fundamentos.svg"/>
+<div align="left">
+  <img src="imgshields/certifications/ethical.svg"/>
+  <img src="imgshields/certifications/ia fundamentos.svg"/>
+</div>
 
 ---
 
 ### 🌐 Idiomas
 
-<img src="imgshields/certifications/ingles.svg"/>
+<div align="left">
+  <img src="imgshields/certifications/ingles.svg"/>
+</div>
 
 ---
 
