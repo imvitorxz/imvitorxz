@@ -11,7 +11,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco em entregar soluções modernas e eficientes. Possuo experiência em projetos web, mobile e APIs robustas, utilizando as melhores práticas do mercado como Clean Architecture, SOLID e DDD. Também tenho formação em Banco de Dados e Administração, o que me permite entender desde o código até a lógica de negócio.
 
-Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilidades com tecnologias modernas e conquistar minha primeira vaga como **Dev Júnior em 2025**.
+Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilidades com tecnologias modernas e conquistar minha primeira vaga como **Dev Júnior em 2025**.C:\Users\vitto\Downloads\readme\vitorxzspes\imgshields\certifications
 
 ---
 
@@ -24,13 +24,13 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 🖥️ Back-End
 
 <div align="left">
-  <img src="imgshields/back-end/dotnet.svg/" />
-  <img src="imgshields/back-end/csharp.svg/" />
-  <img src="imgshields/back-end/aspdotnet.svg/" />
-  <img src="imgshields/back-end/ef.svg/" />
-  <img src="imgshields/back-end/dapper.svg" />
-  <img src="imgshields/back-end/psql.svg/" />
-  <img src="imgshields/back-end/mongodb.svg/" />
+  <img src="imgshields/back-end/dotnet.png/" />
+  <img src="imgshields/back-end/csharp.png/" />
+  <img src="imgshields/back-end/aspdotnet.png/" />
+  <img src="imgshields/back-end/ef.png/" />
+  <img src="imgshields/back-end/dapper.png" />
+  <img src="imgshields/back-end/psql.png/" />
+  <img src="imgshields/back-end/mongodb.png/" />
 </div>
 
 ---
@@ -38,12 +38,12 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 💻 Front-End
 
 <div align="left">
-  <img src="imgshields/front-end/react.svg/" />
-  <img src="imgshields/front-end/next.svg/" />
-  <img src="imgshields/front-end/rn.svg/" />
-  <img src="imgshields/front-end/ts.svg/" />
-  <img src="imgshields/front-end/zustand.svg/" />
-  <img src="imgshields/front-end/sc.svg/" />
+  <img src="imgshields/front-end/react.png/" />
+  <img src="imgshields/front-end/next.png/" />
+  <img src="imgshields/front-end/rn.png/" />
+  <img src="imgshields/front-end/ts.png/" />
+  <img src="imgshields/front-end/zustand.png/" />
+  <img src="imgshields/front-end/sc.png/" />
 </div>
 
 ---
@@ -51,11 +51,11 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### ⚙️ DevOps & Infra
 
 <div align="left">
-  <img src="imgshields/devops-infra/docker.svg" />
-  <img src="imgshields/devops-infra/git.svg" />
-  <img src="imgshields/devops-infra/github actions.svg" />
-  <img src="imgshields/devops-infra/railway.svg" />
-  <img src="imgshields/devops-infra/render.svg" />
+  <img src="imgshields/devops-infra/docker.png" />
+  <img src="imgshields/devops-infra/git.png" />
+  <img src="imgshields/devops-infra/github actions.png" />
+  <img src="imgshields/devops-infra/railway.png" />
+  <img src="imgshields/devops-infra/render.png" />
 </div>
 
 ---
@@ -63,11 +63,11 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 📊 Dados e Análise
 
 <div align="left">
-  <img src="imgshields/data-analysis/python.svg" />
-  <img src="imgshields/data-analysis/pandas.svg" />
-  <img src="imgshields/data-analysis/numpy.svg" />
-  <img src="imgshields/data-analysis/scikit.svg" />
-  <img src="imgshields/data-analysis/power-bi.svg" />
+  <img src="imgshields/data-analysis/python.png" />
+  <img src="imgshields/data-analysis/pandas.png" />
+  <img src="imgshields/data-analysis/numpy.png" />
+  <img src="imgshields/data-analysis/scikit.png" />
+  <img src="imgshields/data-analysis/power-bi.png" />
 </div>
 
 ---
@@ -75,9 +75,9 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 🔐 Segurança e Autenticação
 
 <div align="left">
-  <img src="imgshields/security/jwt.svg" />
-  <img src="imgshields/security/bcrypt.svg" />
-  <img src="imgshields/security/oauth2.svg" />
+  <img src="imgshields/security/jwt.png" />
+  <img src="imgshields/security/bcrypt.png" />
+  <img src="imgshields/security/oauth2.png" />
 </div>
 
 ---
@@ -85,12 +85,12 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 📚 Arquitetura, Práticas e Outros
 
 <div align="left">
-  <img src="imgshields/arch/clean.svg" />
-  <img src="imgshields/arch/ddd.svg" />
-  <img src="imgshields/arch/solid.svg" />
-  <img src="imgshields/arch/principles.svg" />
-  <img src="imgshields/arch/websockets.svg" />
-  <img src="imgshields/arch/rest.svg" />
+  <img src="imgshields/arch/clean.png" />
+  <img src="imgshields/arch/ddd.png" />
+  <img src="imgshields/arch/solid.png" />
+  <img src="imgshields/arch/principles.png" />
+  <img src="imgshields/arch/websockets.png" />
+  <img src="imgshields/arch/rest.png" />
 </div>
 
 ---
@@ -98,9 +98,9 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 🧪 Testes
 
 <div align="left">
-  <img src="imgshields/tests/xunit.svg"/>
-  <img src="imgshields/tests/jest.svg"/>
-  <img src="imgshields/tests/eslint.svg"/>
+  <img src="imgshields/tests/xunit.png"/>
+  <img src="imgshields/tests/jest.png"/>
+  <img src="imgshields/tests/eslint.png"/>
 </div>
 
 ## 📈 Em Formação
@@ -118,18 +118,18 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 💻 Desenvolvimento e Programação
 
 <div align="left">
-  <img src="imgshields/certifications/csharp.svg"/>
-  <img src="imgshields/certifications/react_native.svg"/>
-  <img src="imgshields/certifications/git.svg"/>
+  <img src="imgshields/certifications/csharp.png"/>
+  <img src="imgshields/certifications/react_native.png"/>
+  <img src="imgshields/certifications/git.png"/>
 </div>
 ---
 
 ### 🛠️ DevOps, Containers e Cloud
 
 <div align="left">
-  <img src="imgshields/certifications/devops.svg"/>
-  <img src="imgshields/certifications/docker.svg"/>
-  <img src="imgshields/certifications/az900.svg"/>
+  <img src="imgshields/certifications/devops.png"/>
+  <img src="imgshields/certifications/docker.png"/>
+  <img src="imgshields/certifications/az900.png"/>
 </div>
 
 ---
@@ -137,10 +137,10 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 📊 Dados e Engenharia
 
 <div align="left">
-  <img src="imgshields/certifications/data_analysis.svg"/>
-  <img src="imgshields/certifications/sql_server.svg"/>
-  <img src="imgshields/certifications/data_engineer.svg"/>
-  <img src="imgshields/certifications/dba.svg"/>
+  <img src="imgshields/certifications/data_analysis.png"/>
+  <img src="imgshields/certifications/sql_server.png"/>
+  <img src="imgshields/certifications/data_engineer.png"/>
+  <img src="imgshields/certifications/dba.png"/>
 </div>
 
 ---
@@ -148,8 +148,8 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 🤖 IA e Cibersegurança
 
 <div align="left">
-  <img src="imgshields/certifications/ethical.svg"/>
-  <img src="imgshields/certifications/ia fundamentos.svg"/>
+  <img src="imgshields/certifications/ethical.png"/>
+  <img src="imgshields/certifications/ia fundamentos.png"/>
 </div>
 
 ---
@@ -157,7 +157,7 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 🌐 Idiomas
 
 <div align="left">
-  <img src="imgshields/certifications/ingles.svg"/>
+  <img src="imgshields/certifications/ingles.png"/>
 </div>
 
 ---
