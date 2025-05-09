@@ -23,90 +23,77 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 ### 💻 Back-End
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/back-end/dotnet.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/back-end/csharp.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/back-end/aspdotnet.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/back-end/ef.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/back-end/dapper.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/back-end/psql.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/back-end/mongodb.png" />
-</div>
+![.NET](https://img.shields.io/badge/.NET-5.0-blue?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-8.0-239120?style=for-the-badge&logo=c-sharp)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=for-the-badge&logo=dotnet)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-Core-6DB33F?style=for-the-badge&logo=dotnet)
+![Dapper](https://img.shields.io/badge/Dapper-ORM-00599C?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4-47A248?style=for-the-badge&logo=mongodb)
 
 ---
 
 ### 💻 Front-End
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/front-end/react.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/front-end/next.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/front-end/rn.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/front-end/ts.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/front-end/zustand.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/front-end/sc.png" />
-</div>
+![React](https://img.shields.io/badge/React-17-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-10-000000?style=for-the-badge&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-0.64-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.2-3178C6?style=for-the-badge&logo=typescript)
+![Zustand](https://img.shields.io/badge/Zustand-State_Management-000000?style=for-the-badge)
+![Styled Components](https://img.shields.io/badge/Styled_Components-v5.3-DB7093?style=for-the-badge)
 
 ---
 
 ### ⚙️ DevOps & Infra
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/devops-infra/docker.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/devops-infra/git.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/devops-infra/github-actions.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/devops-infra/railway.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/devops-infra/render.png" />
-</div>
+![Docker](https://img.shields.io/badge/Docker-20.10-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-2.30-F05032?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions)
+![Railway](https://img.shields.io/badge/Railway-Deploy-000000?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-Hosting-46E3B7?style=for-the-badge)
 
 ---
 
 ### 📊 Dados e Análise
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/data-analysis/python.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/data-analysis/pandas.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/data-analysis/numpy.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/data-analysis/scikit.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/data-analysis/power-bi.png" />
-</div>
+![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-1.2-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-1.20-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-F7931E?style=for-the-badge&logo=scikit-learn)
+![Power BI](https://img.shields.io/badge/Power_BI-Data_Analysis-F2C811?style=for-the-badge&logo=powerbi)
 
 ---
 
 ### 🔐 Segurança e Autenticação
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/security/jwt.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/security/bcrypt.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/security/oauth2.png" />
-</div>
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge)
+![bcrypt](https://img.shields.io/badge/bcrypt-Encryption-00BFFF?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-Authorization-2C2C2C?style=for-the-badge)
 
 ---
 
 ### 📚 Arquitetura, Práticas e Outros
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/arch/clean.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/arch/ddd.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/arch/solid.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/arch/principles.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/arch/websockets.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/arch/rest.png" />
-</div>
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Design_Patterns-6DB33F?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-Domain_Driven_Design-FF5733?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-007ACC?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-API-000000?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-RealTime-FF0000?style=for-the-badge)
 
 ---
 
 ### 🧪 Testes
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/tests/xunit.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/tests/jest.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/tests/eslint.png" />
-</div>
+![xUnit](https://img.shields.io/badge/xUnit-Testing-FF2D20?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-Testing-C21325?style=for-the-badge&logo=jest)
+![ESLint](https://img.shields.io/badge/ESLint-Linting-4B32C3?style=for-the-badge&logo=eslint)
+
+---
 
 ## 📈 Em Formação
 
 - 💻 Tecnologia em Sistemas para Internet – IFB  
-- 🧑‍🔬 Bacharelado em Engenharia de Software - UNIASSELVI  
+- 🧑‍🔬 Técnico em Desenvolvimento de Sistemas - SENAC
 - 🎓 Formação técnica em Administração e Contabilidade  
 
 ---
@@ -117,49 +104,39 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 ### 💻 Desenvolvimento e Programação
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/csharp.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/react_native.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/git.png" />
-</div>
+![C#](https://img.shields.io/badge/C%23-8.0-239120?style=for-the-badge&logo=c-sharp)
+![React Native](https://img.shields.io/badge/React_Native-0.64-61DAFB?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/Git-2.30-F05032?style=for-the-badge&logo=git)
 
 ---
 
 ### 🛠️ DevOps, Containers e Cloud
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/devops.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/docker.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/az900.png" />
-</div>
+![DevOps](https://img.shields.io/badge/DevOps-CI/CD-007ACC?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-20.10-2496ED?style=for-the-badge&logo=docker)
+![AZ-900](https://img.shields.io/badge/AZ900-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
 
 ---
 
 ### 📊 Dados e Engenharia
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/data_analysis.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/sql_server.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/data_engineer.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/dba.png" />
-</div>
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Python-3776AB?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoft-sql-server)
+![Data Engineer](https://img.shields.io/badge/Data_Engineer-Big_Data-4B8BBE?style=for-the-badge)
+![DBA](https://img.shields.io/badge/DBA-Relational_DB-000080?style=for-the-badge)
 
 ---
 
 ### 🤖 IA e Cibersegurança
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/ethical.png" />
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/ia-fundamentos.png" />
-</div>
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-CyberSecurity-000000?style=for-the-badge)
+![IA Fundamentos](https://img.shields.io/badge/IA-Fundamentos-FF5722?style=for-the-badge)
 
 ---
 
 ### 🌐 Idiomas
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/imvitorxz/imvitorxz/main/imgshields/certifications/ingles.png" />
-</div>
+![Inglês](https://img.shields.io/badge/Inglês-Intermediário-007ACC?style=for-the-badge)
 
 ---
 
