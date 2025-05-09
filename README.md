@@ -24,13 +24,13 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 🖥️ Back-End
 
 <div align="left">
-  <img src="imgshields/back-end/dotnet.png/" />
-  <img src="imgshields/back-end/csharp.png/" />
-  <img src="imgshields/back-end/aspdotnet.png/" />
-  <img src="imgshields/back-end/ef.png/" />
+  <img src="imgshields/back-end/dotnet.png" />
+  <img src="imgshields/back-end/csharp.png" />
+  <img src="imgshields/back-end/aspdotnet.png" />
+  <img src="imgshields/back-end/ef.png" />
   <img src="imgshields/back-end/dapper.png" />
-  <img src="imgshields/back-end/psql.png/" />
-  <img src="imgshields/back-end/mongodb.png/" />
+  <img src="imgshields/back-end/psql.png" />
+  <img src="imgshields/back-end/mongodb.png" />
 </div>
 
 ---
@@ -38,12 +38,12 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 💻 Front-End
 
 <div align="left">
-  <img src="imgshields/front-end/react.png/" />
-  <img src="imgshields/front-end/next.png/" />
-  <img src="imgshields/front-end/rn.png/" />
-  <img src="imgshields/front-end/ts.png/" />
-  <img src="imgshields/front-end/zustand.png/" />
-  <img src="imgshields/front-end/sc.png/" />
+  <img src="imgshields/front-end/react.png" />
+  <img src="imgshields/front-end/next.png" />
+  <img src="imgshields/front-end/rn.png" />
+  <img src="imgshields/front-end/ts.png" />
+  <img src="imgshields/front-end/zustand.png" />
+  <img src="imgshields/front-end/sc.png" />
 </div>
 
 ---
