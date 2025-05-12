@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em entregar soluções modernas e eficientes. Possuo experiência em projetos web, mobile e APIs robustas, utilizando as melhores práticas do mercado como Clean Architecture, SOLID e DDD. Também tenho formação em Banco de Dados e Administração, o que me permite entender desde o código até a lógica de negócio.
+Sou um desenvolvedor apaixonado por tecnologia, com foco em entregar soluções modernas e eficientes. Possuo experiência em projetos web, mobile e APIs robustas, utilizando as melhores práticas do mercado como Clean Architecture, SOLID e DDD. Também tenho formação em Contabilidade e Administração, o que me permite entender desde o código até a lógica de negócio.
 
 Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilidades com tecnologias modernas e conquistar minha primeira vaga como **Dev Júnior em 2025**.
 
