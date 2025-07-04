@@ -1,17 +1,16 @@
 # 👋 Olá, eu sou o Vitor!
 
 🎯 Desenvolvedor Full Stack | Especialista em .NET, React, Next.js, Node.js, e Análise de Dados  
+💼 [Saber Evolve - minha marca](https://saberevolve.com.br)
 🚔 Estagiário de TI na Polícia Federal  
 📍 Brasília - DF | Disponível para trabalho remoto ou presencial  
-📧 contato@saberevolve.com.br | 🌐 [linkedin.com/in/vitor-colombelli](https://linkedin.com/in/vitor-colombelli)  
+📧 contato@saberevolve.com.br | 🌐 [Meu LinkedIn](https://linkedin.com/in/vitor-colombelli)  
 
 ---
 
 ## 🚀 Sobre mim
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco em entregar soluções modernas e eficientes. Possuo experiência em projetos web, mobile e APIs robustas, utilizando as melhores práticas do mercado como Clean Architecture, SOLID e DDD. Também tenho formação em Contabilidade e Administração, o que me permite entender desde o código até a lógica de negócio.
-
-Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilidades com tecnologias modernas e conquistar minha primeira vaga como **Dev Júnior em 2025**.
 
 ---
 
@@ -92,8 +91,8 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 
 ## 📈 Em Formação
 
-- 💻 Tecnologia em Sistemas para Internet – IFB  
-- 🧑‍🔬 Técnico em Desenvolvimento de Sistemas - SENAC
+- 💻 Tecnologia em Sistemas para Internet – IFB
+- 🧮 Bacharelado em Ciências Contábeis - CEUB
 - 🎓 Formação técnica em Administração e Contabilidade  
 
 ---
@@ -137,15 +136,6 @@ Atualmente, estou desenvolvendo projetos autorais para demonstrar minhas habilid
 ### 🌐 Idiomas
 
 ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-007ACC?style=for-the-badge)
-
----
-
-## ✨ Objetivos para 2025
-
-- Conseguir minha primeira vaga como Desenvolvedor Júnior  
-- Finalizar todos os projetos listados no meu portfólio  
-- Contribuir com projetos open source  
-- Evoluir como dev full stack e trabalhar com grandes times  
 
 ---
 
