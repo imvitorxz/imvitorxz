@@ -1,24 +1,27 @@
-# 👋 Olá, eu sou o Vitor!
+# 👋 Bem-vindo(a) ao meu GitHub!
 
-🎯 Desenvolvedor Full Stack | Especialista em .NET, React, Next.js, Node.js, e Análise de Dados  
-💼 [Saber Evolve - minha marca](https://saberevolve.com.br)<br/>
-🚔 Estagiário de TI na Polícia Federal  
-📍 Brasília - DF | Disponível para trabalho remoto ou presencial  
-📧 contato@saberevolve.com.br | 🌐 [Meu LinkedIn](https://linkedin.com/in/vitor-colombelli)  
+🧬 Fundador da Saber Evolve - Sua parceira na resolução de problemas
 
+🎯 Especialista em criar soluções digitais que transformam ideias em resultados reais para pequenas e médias empresas, profissionais liberais, autônomos e quem mais precisar.
+
+💼 **Nossos Serviços:**
+- **Desenvolvimento de Software Personalizado:** Criamos sistemas sob medida para otimizar processos e aumentar a produtividade.
+- **Criação de sites, sistemas online, APIs robustas e e-commerces completos. Seu projeto na web, seguro, rápido e com design profissional.**
+- **Aplicativos Android e iOS, entregando uma experiência fluida para seus clientes. Leve sua marca até a palma da mão do seu público.**
+- **Sistemas desktop personalizados para automação de processos, gestão interna e operações offline. Tecnologia poderosa para tornar o seu dia a dia mais eficiente.**
+- **APIs escaláveis e seguras para integrar sistemas, otimizar processos e potencializar seu negócio. Conecte tudo de forma simples e eficiente.**
+- **Proteção de dados e sistemas com as melhores práticas de segurança cibernética. Mantenha sua empresa segura e confiável no mundo digital.**
+- **Consultoria em tecnologia para ajudar sua empresa a encontrar as melhores soluções digitais. Juntos, vamos transformar desafios em oportunidades de crescimento.**
+- **Design de interfaces intuitivas e atraentes, focadas na experiência do usuário. Transforme a interação com seu produto em uma jornada agradável e eficiente.**
+**
+
+🌐 **Nosso Site:** [www.saberevolve.com.br](https://www.saberevolve.com.br)<br/>
+📧 **Contato:** contato@saberevolve.com.br | 📱 **WhatsApp:** 55 61 99403-0749 | 📷 @saberevolve | 🔵 @saberevolve <br/>
 ---
 
-## 🚀 Sobre mim
+## 🛠️ Nossa Stack de Tecnologia
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em entregar soluções modernas e eficientes. Possuo experiência em projetos web, mobile e APIs robustas, utilizando as melhores práticas do mercado como Clean Architecture, SOLID e DDD. Também tenho formação em Contabilidade e Administração, o que me permite entender desde o código até a lógica de negócio.
-
----
-
-## 🧰 Minha Stack
-
-👉 tudo o que uso, e abaixo você pode conferir meus projetos!
-
----
+Utilizo as melhores e mais confiáveis tecnologias do mercado para construir soluções escaláveis e seguras.
 
 ### 💻 Back-End
 
@@ -89,58 +92,24 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em entregar soluções 
 
 ---
 
-## 📈 Em Formação
+## 🚀 Nossos Projetos
 
-- 💻 Tecnologia em Sistemas para Internet – IFB
-- 🧮 Bacharelado em Ciências Contábeis - CEUB
-- 🎓 Formação técnica em Administração e Contabilidade  
+Confira alguns de nossos repositórios e projetos para ver a qualidade e a organização do nosso trabalho.
 
 ---
 
-## 🏅 Certificações
+## 📢 Pronto para Transformar Sua Ideia em Realidade?
 
-💪 algumas certificações que possuo, confira abaixo!
+Se você busca uma solução digital, estamos prontos para ajudar. Vamos conversar sobre o seu projeto!
 
-### 💻 Desenvolvimento e Programação
-
-![C#](https://img.shields.io/badge/C%23-8.0-239120?style=for-the-badge&logo=c-sharp)
-![React Native](https://img.shields.io/badge/React_Native-0.64-61DAFB?style=for-the-badge&logo=react)
-![Git](https://img.shields.io/badge/Git-2.30-F05032?style=for-the-badge&logo=git)
-
----
-
-### 🛠️ DevOps, Containers e Cloud
-
-![DevOps](https://img.shields.io/badge/DevOps-CI/CD-007ACC?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-20.10-2496ED?style=for-the-badge&logo=docker)
-![AZ-900](https://img.shields.io/badge/AZ900-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
+**Entre em contato:**
+- **Website:** [www.saberevolve.com.br](https://www.saberevolve.com.br)
+- **E-mail:** contato@saberevolve.com.br
+- **WhatsApp:** [+55 61 99403-0749](https://wa.me/5561994030749)
+- **Instagram:** [@saberevolve](https://instagram.com/saberevolve)
+- **Facebook:** [@saberevolve](https://facebook.com/saberevolve)
+- **LinkedIn:** [Saber Evolve](https://linkedin.com/company/saber-evolve)
 
 ---
 
-### 📊 Dados e Engenharia
-
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Python-3776AB?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoft-sql-server)
-![Data Engineer](https://img.shields.io/badge/Data_Engineer-Big_Data-4B8BBE?style=for-the-badge)
-![DBA](https://img.shields.io/badge/DBA-Relational_DB-000080?style=for-the-badge)
-
----
-
-### 🤖 IA e Cibersegurança
-
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-CyberSecurity-000000?style=for-the-badge)
-![IA Fundamentos](https://img.shields.io/badge/IA-Fundamentos-FF5722?style=for-the-badge)
-
----
-
-### 🌐 Idiomas
-
-![Inglês](https://img.shields.io/badge/Inglês-Intermediário-007ACC?style=for-the-badge)
-
----
-
-📢 Me mande um e-mail ou uma DM no LinkedIn!
-
----
-
-**Obrigado por visitar meu perfil! 🚀**
+**Obrigado por visitar o meu perfil! 🚀**
