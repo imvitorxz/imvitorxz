@@ -16,7 +16,10 @@
 **
 
 🌐 **Nosso Site:** [www.saberevolve.com.br](https://www.saberevolve.com.br)<br/>
-📧 **Contato:** contato@saberevolve.com.br | 📱 **WhatsApp:** 55 61 99403-0749 | 📷 @saberevolve | 🔵 @saberevolve <br/>
+📧 **Contato:** contato@saberevolve.com.br
+📱 **WhatsApp:** 55 61 99403-0749
+📷 @saberevolve
+🔵 @saberevolve <br/>
 ---
 
 ## 🛠️ Nossa Stack de Tecnologia
