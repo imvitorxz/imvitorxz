@@ -17,7 +17,6 @@
 
 🌐 **Nosso Site:** [www.saberevolve.com.br](https://www.saberevolve.com.br)<br/>
 📧 **E-mail:** contato@saberevolve.com.br<br/>
-📱 **WhatsApp:** 55 61 99403-0749<br/>
 📷 @saberevolve<br/>
 🔵 @saberevolve <br/>
 <br/>
@@ -109,7 +108,6 @@ Se você busca uma solução digital, estamos prontos para ajudar. Vamos convers
 **Entre em contato:**
 - **Website:** [www.saberevolve.com.br](https://www.saberevolve.com.br)
 - **E-mail:** contato@saberevolve.com.br
-- **WhatsApp:** [+55 61 99403-0749](https://wa.me/5561994030749)
 - **Instagram:** [@saberevolve](https://instagram.com/saberevolve)
 - **Facebook:** [@saberevolve](https://facebook.com/saberevolve)
 - **LinkedIn:** [Saber Evolve](https://linkedin.com/company/saber-evolve)
