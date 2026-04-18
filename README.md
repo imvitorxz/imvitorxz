@@ -1,7 +1,5 @@
 # 👋 Bem-vindo(a) ao meu GitHub!
 
-🧬 Fundador da Saber Evolve - Sua parceira na resolução de problemas
-
 🎯 Especialista em criar soluções digitais que transformam ideias em resultados reais para pequenas e médias empresas, profissionais liberais, autônomos e quem mais precisar.
 
 💼 **Nossos Serviços:**
@@ -14,13 +12,6 @@
 - **Consultoria em tecnologia para ajudar sua empresa a encontrar as melhores soluções digitais. Juntos, vamos transformar desafios em oportunidades de crescimento.**
 - **Design de interfaces intuitivas e atraentes, focadas na experiência do usuário. Transforme a interação com seu produto em uma jornada agradável e eficiente.**
 **
-
-🌐 **Nosso Site:** [www.saberevolve.com.br](https://www.saberevolve.com.br)<br/>
-📧 **E-mail:** contato@saberevolve.com.br<br/>
-📷 @saberevolve<br/>
-🔵 @saberevolve <br/>
-<br/>
----
 
 ## 🛠️ Nossa Stack de Tecnologia
 
@@ -92,25 +83,6 @@ Utilizo as melhores e mais confiáveis tecnologias do mercado para construir sol
 ![xUnit](https://img.shields.io/badge/xUnit-Testing-FF2D20?style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-Testing-C21325?style=for-the-badge&logo=jest)
 ![ESLint](https://img.shields.io/badge/ESLint-Linting-4B32C3?style=for-the-badge&logo=eslint)
-
----
-
-## 🚀 Nossos Projetos
-
-Confira alguns de nossos repositórios e projetos para ver a qualidade e a organização do nosso trabalho.
-
----
-
-## 📢 Pronto para Transformar Sua Ideia em Realidade?
-
-Se você busca uma solução digital, estamos prontos para ajudar. Vamos conversar sobre o seu projeto!
-
-**Entre em contato:**
-- **Website:** [www.saberevolve.com.br](https://www.saberevolve.com.br)
-- **E-mail:** contato@saberevolve.com.br
-- **Instagram:** [@saberevolve](https://instagram.com/saberevolve)
-- **Facebook:** [@saberevolve](https://facebook.com/saberevolve)
-- **LinkedIn:** [Saber Evolve](https://linkedin.com/company/saber-evolve)
 
 ---
 
