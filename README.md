@@ -2,7 +2,7 @@
 
 🎯 Especialista em criar soluções digitais que transformam ideias em resultados reais para pequenas e médias empresas, profissionais liberais, autônomos e quem mais precisar.
 
-💼 **Nossos Serviços:**
+💼 **Meus Serviços:**
 - **Desenvolvimento de Software Personalizado:** Criamos sistemas sob medida para otimizar processos e aumentar a produtividade.
 - **Criação de sites, sistemas online, APIs robustas e e-commerces completos. Seu projeto na web, seguro, rápido e com design profissional.**
 - **Aplicativos Android e iOS, entregando uma experiência fluida para seus clientes. Leve sua marca até a palma da mão do seu público.**
@@ -13,7 +13,7 @@
 - **Design de interfaces intuitivas e atraentes, focadas na experiência do usuário. Transforme a interação com seu produto em uma jornada agradável e eficiente.**
 **
 
-## 🛠️ Nossa Stack de Tecnologia
+## 🛠️ Minha Stack de Tecnologia
 
 Utilizo as melhores e mais confiáveis tecnologias do mercado para construir soluções escaláveis e seguras.
 
